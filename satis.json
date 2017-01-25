@@ -1,0 +1,8 @@
+{
+  "name": "CustomJWT",
+  "homepage": "https://www.mentor1to1.org",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/brijeshmp/customjwt" },
+  ],
+  "require-all": true
+}
